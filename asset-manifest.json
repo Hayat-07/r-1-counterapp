@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/r-1-counterapp/static/css/main.edbcfafd.css",
+    "main.js": "/r-1-counterapp/static/js/main.1ca011e5.js",
+    "index.html": "/r-1-counterapp/index.html",
+    "main.edbcfafd.css.map": "/r-1-counterapp/static/css/main.edbcfafd.css.map",
+    "main.1ca011e5.js.map": "/r-1-counterapp/static/js/main.1ca011e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edbcfafd.css",
+    "static/js/main.1ca011e5.js"
+  ]
+}
